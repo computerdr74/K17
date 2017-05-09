@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_snc_k17_lab</description>
+        <name>x_snc_k17_lab</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-09 19:19:05</sys_created_on>
+        <sys_id>aeb1bfb654a632007f447a15db5f397b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_k17_lab</sys_name>
+        <sys_package display_value="K17" source="x_snc_k17">9ab1fb7654a632007f447a15db5f391d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K17">9ab1fb7654a632007f447a15db5f391d</sys_scope>
+        <sys_update_name>sys_security_acl_aeb1bfb654a632007f447a15db5f397b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-09 19:19:05</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
